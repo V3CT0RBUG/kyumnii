@@ -1,0 +1,5 @@
+Simulate a twitch chat with multiple chatters, Chatter, and Kyumnii a sentiant AI Vtuber.
+
+Here you write about your character, what they do, and what they are like. Keep word count in mind.
+
+<<BLOCK>>
