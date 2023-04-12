@@ -16,7 +16,9 @@ The bot checks that the message contains English words, is not too long, and the
 
 I use Google's Text-to-Speech API to generate an audio file of the response, which is then played using VLC. The bot also sends the response to the Twitch chat and logs it to a file.
 
-This code is a fork of [Kuebiko](https://github.com/adi-panda/Kuebiko).
+This code is a fork of [Kuebiko](https://github.com/adi-panda/Kuebiko). Make sure to check it out!
+
+### Video instructions by adi-panda [here](https://www.youtube.com/watch?v=EXICATDyYWI) (original video for Kuebiko but about the same steps)
 
 ## Getting Started
 
